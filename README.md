@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Featured Projects
-| Project Name     | Description                                     | Tech Stack         |
+| Project Name      | Description                                     | Tech Stack         |
 |-------------------|-------------------------------------------------|--------------------|
 | [Retail Sales ETL & Analytics](https://github.com/abhinavalungal/Retail-Sales-ETL-Analytics-Project-) | End-to-end ETL and analytics workflow on 50K+ retail records. | Python (Pandas, SQLAlchemy), SQL Server |
 | [YouTube Analytics Data Engineering Pipeline](https://github.com/abhinavalungal/YouTube-Analytics-Data-Engineering-Pipeline) | Cloud-based pipeline analyzing YouTube trending video data with automated ETL, querying, and dashboards. | Python, AWS (S3, Glue, Lambda, Athena, QuickSight) |
