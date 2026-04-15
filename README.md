@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ---
 
   ### 👨‍💻 About Me
-- 🔭 Working on **AWS Cloud** & **Data Engineering Projects**  
+- 🔭 Working on **GCP** & **Data Engineering Projects**  
 - 🌱 Learning **Big Data, Machine Learning, Deep Learning, Python Automation, Dimensional Modeling**  
-- 💬 Ask me about **Python, SQL, AWS**  
+- 💬 Ask me about **Python, SQL, GCP**  
 - ⚡ Fun fact: 🏋️ I lift both **data pipelines** and **dumbbells**  
 
 ---
